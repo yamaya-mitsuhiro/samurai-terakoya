@@ -1,4 +1,5 @@
 #top {
+  text-align: center;
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
@@ -7,12 +8,7 @@
   background-color: #dcc9f4;
 }
 .top-child {
-  text-align: center;
   display: inline-block;
-  position:relative;
-  left: 20%;
-  padding-left: auto;
-  padding-right: auto;
   width: 20%;
   background-color: #ffd9df;
 }
